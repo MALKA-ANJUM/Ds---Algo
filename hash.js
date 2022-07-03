@@ -82,3 +82,5 @@ function itemInCommon(arr1, arr2) {
 let array1 = [1,3,5]
 let array2 = [2,4,5]
 
+
+
